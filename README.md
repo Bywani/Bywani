@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Benito Ywani
-- 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Machine Learning Engineer | Data Scientist with broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in predictive modeling, data processing, and data mining algorithms, as well as scripting languages, including Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
-<!---
-Bywani/Bywani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Machine learning models: advanced level machine learning (supervised vs unsupervised) / statistical modeling, predictive / forecasting and descriptive model fitting; logistic regression, piece-wise linear model, varying-coefficient model, time series, GARCH/ARCH/ARIMA, nonlinear regression, smoothing, nonparametric/semi-parametric models, econometrics, Bayesian methods, Monte Carlo methods, optimization.
+
+Regression and classification (ROC-AUC), ensemble learning models (Decision tree / Random Forest / Gradient Boosting / XGBoost), support vector machine (SVM), clustering (K-means, Hierarchical, Gaussian Mixture model), KNN; dimension reduction / PCA; Experiment Design / A/B Testing / ANOVA, Discrete /categorical data analysis.
+
+Programming: Python's Numpy / Pandas / Sklearn / Seaborn / SciPy / Matplotlib / Jupyter Notebook / Github / Feature engineering / EDA / hyper-parameter tuning / SQL / Matlab / VBA / Excel / MiniTab / Keras /Flask/ Tensorflow / Spark.
