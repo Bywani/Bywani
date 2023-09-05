@@ -1,4 +1,8 @@
-A seasoned Machine Learning Engineer and Data Scientist, I bring extensive expertise in devising data-intensive solutions for various sectors. I specialize in addressing intricate architectural and scalability issues and harnessing advanced predictive modeling, data processing, and data mining methodologies. My adeptness in Python further enables the delivery of versatile and adaptive services to fulfill intricate business needs.
+As a seasoned Data Scientist with a Master's in Software Development and engineering, I specialize in leveraging advanced machine
+learning techniques, including neural networks and NLP, to extract insights from complex datasets. With proficiency in Python and
+SQL, I have successfully designed and deployed robust predictive models that drive data-informed strategies. My collaborative
+approach, combined with a knack for problem-solving, positions me as a valuable asset for organizations aiming to harness the power
+of data to fuel growth.
 
 **Technical Expertise:**
 
