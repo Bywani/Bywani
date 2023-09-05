@@ -1,7 +1,10 @@
-As a highly skilled and experienced Machine Learning Engineer and Data Scientist, I possess a broad range of expertise in designing and developing data-intensive applications for diverse industries. I excel in overcoming complex architectural and scalability challenges and am proficient in utilizing predictive modeling, data processing, and data mining algorithms. My strong proficiency in scripting languages, including Python, enables me to create, develop, test, and deploy highly adaptive and diverse services to meet business and functional requirements and deliver substantial results.
+A seasoned Machine Learning Engineer and Data Scientist, I bring extensive expertise in devising data-intensive solutions for various sectors. I specialize in addressing intricate architectural and scalability issues and harnessing advanced predictive modeling, data processing, and data mining methodologies. My adeptness in Python further enables the delivery of versatile and adaptive services to fulfill intricate business needs.
 
-As a Data Scientist and Machine Learning Engineer, I have advanced level expertise in machine learning models, including supervised and unsupervised techniques, statistical modeling, predictive and forecasting models, and descriptive model fitting. My proficiency in various models includes logistic regression, piece-wise linear models, varying-coefficient models, time series models such as GARCH/ARCH/ARIMA, nonlinear regression, smoothing techniques, nonparametric and semi-parametric models, econometrics, Bayesian methods, Monte Carlo methods, and optimization. 
+**Technical Expertise:**
 
-I am also skilled in various machine learning techniques such as regression and classification (ROC-AUC), ensemble learning models (Decision tree, Random Forest, Gradient Boosting, XGBoost), support vector machines (SVM), clustering techniques (K-means, Hierarchical, Gaussian Mixture model), KNN, dimension reduction techniques such as PCA, experiment design, A/B testing, ANOVA, and discrete and categorical data analysis.
-
-In terms of programming, I am proficient in Python's Numpy, Pandas, Sklearn, Seaborn, SciPy, Matplotlib, Jupyter Notebook, Github, feature engineering, EDA, hyper-parameter tuning, SQL, Matlab, VBA, Excel, MiniTab, Keras, Flask, Tensorflow, and Spark.
+- **Programming & Data Manipulation:** Python, Numpy, Pandas, SQL, Matlab, PySpark, Excel.
+- **Visualization & Reporting:** Seaborn, Matplotlib, Plotly, Power BI, Jupyter Notebook.
+- **ML & Analysis:** Sklearn, Time Series, Bayesian Methods, Regression, Classification (ROC-AUC), Ensemble Learning, SVM, Clustering, Dimension Reduction, A/B Testing, - - ANOVA, Hyper-parameter Tuning, Explainable AI.
+- **Deep Learning:** Keras, Tensorflow.
+- **Cloud & Platforms:** AWS, Google Cloud, Azure | Azure Databricks.
+- **Development Tools:** Flask, Github, Azure DevOps.
