@@ -1,4 +1,4 @@
-As a seasoned Data Scientist with a Master's in Software Development and engineering, I specialize in leveraging advanced machine
+As a seasoned Data Scientist with a Master's in Software Development and Engineering, I specialize in leveraging advanced machine
 learning techniques, including neural networks and NLP, to extract insights from complex datasets. With proficiency in Python and
 SQL, I have successfully designed and deployed robust predictive models that drive data-informed strategies. My collaborative
 approach, combined with a knack for problem-solving, positions me as a valuable asset for organizations aiming to harness the power
